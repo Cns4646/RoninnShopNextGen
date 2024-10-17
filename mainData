@@ -1,6 +1,7 @@
 [
   {
     "gameName": "",
+    "gameUID": "",
     "data": [
       {
         "title": "",
@@ -10,6 +11,7 @@
   },
   {
     "gameName": "Mobile Legend",
+    "gameUID": "MLBB",
     "data": [
       {
         "title": "",
