@@ -3,7 +3,7 @@
   "data": [
     {
       "gameName": "Mobile Legend",
-      "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/mobile-legends/"
+      "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/mobile-legends/",
       "viewData":"row4"
     }
   ]
