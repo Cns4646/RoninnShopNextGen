@@ -1,0 +1,28 @@
+[
+  {
+    "gameName": "",
+    "data": [
+      {
+        "title": "",
+        "UID": ""
+      }
+    ]
+  },
+  {
+    "gameName": "Mobile Legend",
+    "data": [
+      {
+        "title": "",
+        "UID": ""
+      },
+      {
+        "title": "Weekly Diamond Pass",
+        "UID": "WDP"
+      },
+      {
+        "title": "Diamond",
+        "UID": "DIA"
+      }
+    ]
+  }
+]
