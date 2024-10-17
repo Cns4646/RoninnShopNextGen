@@ -5,6 +5,11 @@
       "gameName": "Mobile Legend",
       "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/mobile-legends/",
       "viewData":"row4"
+    },
+    {
+      "gameName": "Pubg Mobile",
+      "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/pubgm-global/",
+      "viewData":"row2"
     }
   ]
 }
