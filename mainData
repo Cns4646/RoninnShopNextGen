@@ -2,28 +2,34 @@
   {
     "gameName": "",
     "gameUID": "",
+    "gameImage": "",
     "data": [
       {
         "title": "",
-        "UID": ""
+        "UID": "",
+        "Image": ""
       }
     ]
   },
   {
     "gameName": "Mobile Legend",
     "gameUID": "MLBB",
+    "gameImage": "",
     "data": [
       {
         "title": "",
-        "UID": ""
+        "UID": "",
+        "Image": ""
       },
       {
         "title": "Weekly Diamond Pass",
-        "UID": "WDP"
+        "UID": "WDP",
+        "Image": ""
       },
       {
         "title": "Diamond",
-        "UID": "DIA"
+        "UID": "DIA",
+        "Image": ""
       }
     ]
   }
