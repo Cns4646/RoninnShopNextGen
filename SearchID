@@ -15,6 +15,11 @@
       "gameName": "Pubg Mobile",
       "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/pubgm-global/",
       "viewData":"row2"
+    },
+     {
+      "gameName": "honor of kings",
+      "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/honor-of-kings/",
+      "viewData":"row2"
     }
   ]
 }
