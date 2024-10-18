@@ -3,6 +3,7 @@
     "gameName": "",
     "gameUID": "",
     "gameImage": "",
+    "gameImage1": ""
     "data": [
       {
         "title": "",
@@ -15,6 +16,7 @@
     "gameName": "Mobile Legend",
     "gameUID": "MLBB",
     "gameImage": "",
+    "gmaeImage1": ""
     "data": [
       {
         "title": "",
