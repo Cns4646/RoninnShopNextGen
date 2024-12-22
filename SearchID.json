@@ -4,22 +4,26 @@
     {
       "gameName": "Choose",
       "x-rapidapi-key": "",
-      "viewData":""
+      "viewData":"",
+      "UID":""
     },
     {
       "gameName": "Mobile Legend",
       "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/mobile-legends/",
-      "viewData":"row4"
+      "viewData":"row4",
+      "UID":"MLBB"
     },
     {
       "gameName": "Pubg Mobile",
       "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/pubgm-global/",
-      "viewData":"row2"
+      "viewData":"row2",
+      "UID":"PUBG"
     },
      {
       "gameName": "honor of kings",
       "x-rapidapi-key": "https://id-game-checker.p.rapidapi.com/honor-of-kings/",
-      "viewData":"row2"
+      "viewData":"row2",
+      "UID":"HOK"
     }
   ]
 }
