@@ -107,6 +107,11 @@
         "title": "500 ( +500 ) Dia",
         "UID": "DIA",
         "Image": ""
+      },
+      {
+        "title": "Great Value Pass",
+        "UID": "WDP",
+        "Image": ""
       }
     ]
   }
