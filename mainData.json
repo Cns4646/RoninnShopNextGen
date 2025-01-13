@@ -114,5 +114,18 @@
         "Image": ""
       }
     ]
+  },
+  {
+    "gameName": "PUBG Mobile",
+    "gameUID": "PUBG",
+    "gameImage": "https://i.ibb.co/9Z31SQh/Player-Unknown-s-Battlegrounds-Mobile-webp.png",
+    "gameImage1": "https://i.ibb.co/9Z31SQh/Player-Unknown-s-Battlegrounds-Mobile-webp.png",
+    "data": [
+      {
+        "title": "",
+        "UID": "",
+        "Image": ""
+      }
+    ]
   }
 ]
